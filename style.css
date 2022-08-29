@@ -1,3 +1,12 @@
+
+.navbar{
+    background-color: #6c63ff;
+    color:white;
+}
+.nav-link, .navbar-brand{
+    color: white;
+}
+
 .section{
     margin: 50px auto;
     max-width: 1080px;
@@ -29,3 +38,4 @@ header{
     color: #6c63ff;
     border: #6c63ff solid 1px;
 }
+
