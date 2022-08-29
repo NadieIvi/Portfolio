@@ -1,3 +1,31 @@
-header, img{
-    max-width: 300px;
+.section{
+    margin: 50px auto;
+    max-width: 1080px;
+}
+header{
+    /*display: flex;*/
+}
+.technology-icon{
+    max-width: 40px;
+    height: auto;
+    margin: 10px auto 5px;
+}
+
+.technology-title{
+    text-align: center;
+    font-size: 13px;
+    }
+
+.project-link {
+    border-radius: 4px;
+    padding: 10px 20px;
+    text-decoration: none;
+    background-color: #6c63ff;
+    color: white;
+    }
+
+.project-link:hover{
+    background-color: white;
+    color: #6c63ff;
+    border: #6c63ff solid 1px;
 }
